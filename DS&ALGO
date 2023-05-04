@@ -1,0 +1,93 @@
+                                                                      Data Structure and Algorithm
+
+Introduction to Structure and Algorithm
+
+Basic:
+  •	Stack vs Heap Memory
+  •	Physical and Logical Data Structure
+  •	Abstract Data type (ADT)
+  •	Time Complexity and Space Complexity
+
+Recursion:
+  •	Introduction to recursion
+  •	How recursion works 
+  •	How recursion uses stack memory
+  •	Static and instance variable in Recursion
+  •	Tree building in recursion
+  •	Head and Tail recursion
+  •	Nested recursion
+  •	Program using recursion
+
+Arrays:
+  •	Introduction to Array 
+  •	How Array works in Java
+  •	How to declare and initialize an Array
+  •	2D, 3D Array
+  •	Program using Array
+
+Searching:
+  •	Linear search
+  •	Binary search
+
+Sorting:
+  •	Insertion sort
+  •	Selection sort
+  •	Bubble sort
+  •	Merge sort
+  •	Quick sort
+  •	Heap sort
+
+Array List:
+  •	Introduction to ArrayList
+  •	How ArrayList works
+  •	Coding
+
+LinkedList:
+  •	Introduction to LinkedList
+  •	Single LinkedList and Doubly LinkedList 
+  •	Fast and Slow pointer
+  •	Cycle detection, reversal of linkedlist
+  •	LinkedList with recursion
+  •	Coding 
+
+Tree:
+  •	Introduction to binary trees
+  •	Binary search trees
+  •	BFS, DFS and ALV trees
+  •	Segment trees
+
+HashMap:
+  •	Introduction to HashMap
+  •	How HashMap works
+  •	How to code using HashMap
+
+Backtracking:
+  •	Introduction to backtracking
+  •	Maze problems 
+  •	N-queens
+  •	N-knights
+
+Stack:
+  •	Introduction to Stack
+  •	Push, POP
+  •	Stack using queue
+
+
+Queue:
+  •	Introduction to Queue
+  •	Push, pop
+  •	How queue using stack
+  •	Circular queue
+  
+Graph Theory:
+  •	Introduction to graph theory
+  •	Breadth First Search (BSF)
+  •	Depth First Search (DSF)
+  •	Spanning trees
+  •	Kruskal’s program
+  •	Prim’s program
+  •	Disjoint subsets
+
+
+	
+  
