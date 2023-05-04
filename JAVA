@@ -1,0 +1,57 @@
+                                                                          JAVA
+
+Introduction to programming
+
+Basic:
+  •	What is Java
+  •	Installation
+  •	Identifier, Keywords, Literals
+  •	Data type
+  •	Variable
+  •	Operators
+  •	Conditional statements
+  •	Loops
+  •	Methods
+  •	Modifiers
+OOPS:
+  •	Class and Object
+  •	Primitive casting
+  •	Method overloading
+  •	Static keyword
+  •	This keyword
+  •	Constructor
+  •	Constructor Overloading
+  •	this() 
+  •	Blocks
+  •	Inheritance
+  •	Super keyword
+  •	Aggregation
+  •	Method overriding
+  •	Super()
+  •	Upcasting and downcasting
+  •	Binding
+  •	Polymorphism
+  •	Abstraction
+  •	Interface
+  •	Encapsulation
+
+lang Package:
+  •	Object class
+  •	String, StringBuffer, StringBuilder
+  •	Wrapper class
+  •	Comparable
+  •	Exceptional Handling
+  •	Thread
+
+Util Package:
+  •	Collection Framework
+  •	Collections Class
+  •	Arrays Class
+  •	Comparator
+  
+IO Package:
+  •	File Handling
+  •	Serialization and Deserialization
+
+	
+  
